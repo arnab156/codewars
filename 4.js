@@ -41,6 +41,6 @@ function whoIsNext(names, r){
 
 
 names = ["Sheldon", "Leonard", "Penny", "Rajesh", "Howard"]
-r = 5
+r = 800034
 res = "Sheldon"
 whoIsNext(names, r);
